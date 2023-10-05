@@ -1,6 +1,7 @@
 # RestApi-CRUD
 
-![Captura](https://github.com/Aldo1609/RestApi-CRUD/assets/60208224/e51b3e4a-227f-4ec5-8a07-faf967cd63a1)
+![Captura](https://github.com/Aldo1609/RestApi-CRUD/assets/60208224/2ab0f6cb-90e4-42b4-91ab-cc51e4e036f4)
+
 
 It is a simple restapi that has the Get, Post, Put and Delete methods, 
 it also uses a get method to obtain information from another api, this project was only experimental and a more complete one will be published soon.
